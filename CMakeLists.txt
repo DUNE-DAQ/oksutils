@@ -1,5 +1,5 @@
 # DUNE DAQ modification notice:
-# This file has been modified from the original ATLAS oks source for the DUNE DAQ project.
+# This file has been modified from the original ATLAS oks_utils source for the DUNE DAQ project.
 # Fork baseline commit: 26f3bea2 (2022-11-29).
 # Renamed since fork: no.
 

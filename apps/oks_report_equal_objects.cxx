@@ -1,3 +1,10 @@
+/*
+ * DUNE DAQ modification notice:
+ * This file has been modified from the original ATLAS oks source for the DUNE DAQ project.
+ * Fork baseline commit: 26f3bea2 (2022-11-29).
+ * Renamed since fork: yes (from src/bin/oks_report_equal_objects.cpp to apps/oks_report_equal_objects.cxx).
+ */
+
 /**
  *  \file oks_diff_data.cpp
  *

@@ -1,3 +1,10 @@
+/*
+ * DUNE DAQ modification notice:
+ * This file has been modified from the original ATLAS oks source for the DUNE DAQ project.
+ * Fork baseline commit: 26f3bea2 (2022-11-29).
+ * Renamed since fork: yes (from src/bin/oks_diff_schema.cpp to apps/oks_diff_schema.cxx).
+ */
+
 /**
  *  \file oks_diff_schema.cpp
  *

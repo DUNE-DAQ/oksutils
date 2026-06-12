@@ -1,7 +1,7 @@
 /*
  * DUNE DAQ modification notice:
  * This file has been modified from the original ATLAS oks_utils source for the DUNE DAQ project.
- * Fork baseline commit: 26f3bea2 (2022-11-29).
+ * Fork baseline commit: c2e7dfc7 (2022-03-30).
  * Renamed since fork: yes (from examples/query.cpp to test/apps/query.cxx).
  */
 

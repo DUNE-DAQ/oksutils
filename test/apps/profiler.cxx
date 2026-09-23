@@ -1,11 +1,13 @@
-#include "oks/kernel.hpp"
 #include "oks/class.hpp"
+#include "oks/kernel.hpp"
 
-int main(int argc, char **argv)
+int
+main(int argc, char** argv)
 {
   OksKernel k;
 
-  if(argc != 3) return 1;
+  if (argc != 3)
+    return 1;
 
   k.set_profiling_mode(true);
   k.load_schema(argv[1]);

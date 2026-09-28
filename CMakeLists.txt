@@ -1,5 +1,10 @@
+# DUNE DAQ modification notice:
+# This file has been modified from the original ATLAS oks_utils source for the DUNE DAQ project.
+# Fork baseline commit: c2e7dfc7 (2022-03-30).
+# Renamed since fork: no.
+
 cmake_minimum_required(VERSION 3.12)
-project(oksutils VERSION 1.0.0)
+project(oksutils VERSION 1.0.1)
 
 find_package(daq-cmake REQUIRED)
 
